@@ -2,12 +2,12 @@
 
 <h2>  System.out.println("Ola, meu nome é ", + Bruna);</h2>
 
-- 👩‍💻 No momento estou estudando Java, CyberSecurity
+- ✨ Olá, me chamo Bruna
+- 📚 No momento estou estudando Java, CyberSecurity
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na - Anhembi Morumbi
-- 💬 Pergunte-me sobre <b>Matematica, Moda, Nirvana</b>
-- ⚡ Fun fact: ...
 
-<h3>💻 Tecnologias:</h3>
+
+<h3>👩‍💻 Tecnologias:</h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
