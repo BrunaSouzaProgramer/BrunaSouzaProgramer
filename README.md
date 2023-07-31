@@ -3,7 +3,7 @@
 <h2>  System.out.println("Ola, meu nome é ", + Bruna);</h2>
 
 - 👩‍💻 No momento estou estudando Java, CyberSecurity
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas na - Anhembi Morumbi .
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na - Anhembi Morumbi
 - 💬 Pergunte-me sobre <b>Matematica, Moda, Nirvana</b>
 - ⚡ Fun fact: ...
 
@@ -19,4 +19,4 @@
 
 
  -  [Linkedin](https://www.linkedin.com/in/bruna-souza-716873256/)
- -  [Gmail](brunasouzabarbosa388@gmail.com)
+ -  [Email](brunasouzabarbosa388@gmail.com)
